@@ -1,13 +1,12 @@
-## abstract factory design - [Predicting Bike-Sharing Data](https://)
+## 1 - [abstract factory design](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/abstractfactorydesign)
 
 
-
-## singleton design - [CNN Project: Dog Breed Classifier](https://)
-
-
-## factory design - [Generate TV Scripts](https://)
+## 2 - [singleton design](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/singleton)
 
 
-## decorator design - [Face Generation](https://)
+## 3 - [factory design](https://https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/factory)
+
+
+## 4 - [decorator design](https://https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
 
 

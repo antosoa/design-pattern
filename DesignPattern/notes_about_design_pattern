@@ -1,0 +1,8 @@
+Create Singleton Class for the cache handling and database handling.
+Create separate network handler class and use interface to get the callbacks/response in main class.
+Create Model class to hold data and always create Base class for each class where the meta-data is kept and proper object-slicing can happen.
+Create Constant file to hold data at runtime throughout the project.
+Create xml/json file where the request packet is saved that will help developer to know the payload and headers.
+Use proper specific error codes and messages for network handling etc.
+Lastly, all the classes should be properly organized in specific packages so that if will be found where it is expected to be kept.
+There are much more design patterns, but i have implemented these under MVC Architecture. Also check for security design patterns.

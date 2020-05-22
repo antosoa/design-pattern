@@ -18,6 +18,6 @@ public class GetTheTiles implements Runnable {
 	System.out.println("Player : " + playerOneTiles);
 	
 	System.out.println("Got tiles");
-	}
+	} //
 
 }

@@ -3,31 +3,33 @@
 
 ## Creational: 
 
-### 1 - [abstract factory design](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/abstractfactorydesign)
-### 2 - [singleton design](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/singleton)
-### 3 - [factory design](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/factory)
+### 1 - [abstract factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/abstractfactorydesign)
+### 2 - [singleton](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/singleton)
+### 3 - [factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/factory)
+### 4 - Builder
+### 5 - Prototipe
 
 ## Structural:
 
-### 1- [decorator design](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
-### 2- Class Adapter 
-### 2- Object Adapter
-### 2- Facade  
-### 2- Composite  
-### 2- Decorator 
-### 2- Proxy  
-### 2- Flyweight  
-### 2- Bridge  
+### 1 - [decorator design](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
+### 2 - Class Adapter 
+### 3 - Object Adapter
+### 4 - Facade  
+### 5 - Composite  
+### 6 - Decorator 
+### 7 - Proxy  
+### 8 - Flyweight  
+### 9 - Bridge  
 
 ## Behavioral: 
 
 ###  1- Template Method 
-###  1- Strategy 
-###  1- State 
-###  1- Command  
-###  1- Observer 
-###  1- Mediator 
-###  1- – Memento 
-###  1- – Iterator
-###  1- Visitor
-###  1- Chain of Responsability
+###  2 - Strategy 
+###  3 - State 
+###  4 - Command  
+###  5 - Observer 
+###  6 - Mediator 
+###  7 - Memento 
+###  8 - Iterator
+###  9 - Visitor
+###  10 - Chain of Responsability

@@ -10,5 +10,16 @@ package builder;
  */
 
 public interface RobotBuilderInterface {
+	
+	public void buildRobotHead();
+	
+	public void buildRobotTorso();
+	
+	public void buildRobotArms();
+	
+	public void buildRobotLegs();
+	
+	public Robot getRobot();
+	
 
 }

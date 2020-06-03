@@ -17,6 +17,13 @@ public class Robot implements RobotPlan{
 	public String getLegs() { return this.robotLegs;}
 	
 	@Override
+	public String toString()
+	{
+		return "la testa: " + getHead() + "le braccia: " + getArms() +
+				"le gambe: " + getLegs() + "il torso: " + getTorso();
+	}
+	
+	@Override
 	public void setRobotHead(String head) {
 		// TODO Auto-generated method stub
 		this.robotHead = head;

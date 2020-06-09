@@ -11,7 +11,7 @@
 
 ## Structural:
 
-### 1 - [decorator] (https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
+### 1 - [decorator](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
 ### 2 - Class Adapter 
 ### 3 - Object Adapter
 ### 4 - Facade  

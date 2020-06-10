@@ -11,15 +11,14 @@
 
 ## Structural:
 
-### 1 - [decorator design](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
+### 1 - [decorator](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
 ### 2 - Class Adapter 
 ### 3 - Object Adapter
-### 4 - Facade  
+### 4 - Facade : When you create an interface that performs many others actions behind the scenes
 ### 5 - Composite  
-### 6 - Decorator 
-### 7 - Proxy  
-### 8 - Flyweight  
-### 9 - Bridge  
+### 6 - Proxy  
+### 7 - Flyweight  
+### 8 - Bridge  
 
 ## Behavioral: 
 

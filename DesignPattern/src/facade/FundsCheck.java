@@ -2,7 +2,7 @@ package facade;
 
 public class FundsCheck {
 
-	private static double fundAmount = 66543;
+	private static double fundAmount = 2000;
 	
 	
 	public static double getFundAmount() {
@@ -18,6 +18,11 @@ public class FundsCheck {
 	public static void withdrawCash(double value)
 	{
 		fundAmount=fundAmount-value;
+	}
+	
+	public static void makeDeposit(double value)
+	{
+		fundAmount=fundAmount+value;
 	}
 	
 }

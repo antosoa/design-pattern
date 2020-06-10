@@ -2,16 +2,16 @@ package facade;
 
 public class AccountNumberCheck {
 	
-	private int accountNumber = 1234533;
+	private static int accountNumber = 1234533;
 	
-	public int getAccountNumber()
+	public static int getAccountNumber()
 	{
 		return accountNumber;
 	}
 	
-	public boolean accountActive(int acctNumber)
+	public static boolean accountActive(int acctNumber)
 	{
-		return acctNumber==getAccountNumber()?true:false;
+		return acctNumber == getAccountNumber()?true:false;
 	}
 
 }

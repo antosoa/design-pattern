@@ -7,7 +7,7 @@
 ### 2 - [singleton](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/singleton)
 ### 3 - [factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/factory)
 ### 4 - [Builder](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/builder)
-### 5 - Prototipe
+### 5 - [Prototype](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/prototype)
 
 ## Structural:
 

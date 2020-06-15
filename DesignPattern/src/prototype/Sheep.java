@@ -1,4 +1,4 @@
-package prototipe;
+package prototype;
 
 public class Sheep implements Animal {
 	

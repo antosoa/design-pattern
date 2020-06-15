@@ -1,4 +1,4 @@
-package prototipe;
+package prototype;
 
 public interface Animal extends Cloneable  {
 	

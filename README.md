@@ -7,16 +7,16 @@
 ### 2 - [singleton](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/singleton)
 ### 3 - [factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/factory)
 ### 4 - [Builder](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/builder)
-### 5 - Prototipe
+### 5 - [Prototype](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/prototype)
 
 ## Structural:
 
 ### 1 - [decorator](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
 ### 2 - Class Adapter 
 ### 3 - Object Adapter
-### 4 - Facade : When you create an interface that performs many others actions behind the scenes
+### 4 - [Facade](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/facade) When you create an interface that performs many others actions behind the scenes
 ### 5 - Composite  
-### 6 - Proxy  
+### 6 - Proxy provide a class which will limit access to another class
 ### 7 - Flyweight  
 ### 8 - Bridge  
 

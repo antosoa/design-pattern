@@ -1,11 +1,13 @@
 package state;
 
+import proxy.GetATMData;
+
 /*
  * Context (Account)
  * Maintains an instance of a ConcreteState subclass that defines the current state
  */
 
-public class ATMMachine {
+public class ATMMachine implements GetATMData{
 	
 	ATMState hasCard;
 	ATMState noCard;
@@ -65,6 +67,19 @@ public class ATMMachine {
 	public ATMState getNoCardState() { return noCard; }
 	public ATMState getHasPin() { return hasCorrectPin; }
 	public ATMState getNoCashState() { return atmOutOfMoney; }
+
+	
+	@Override
+	public ATMState getATMState() {
+		// TODO Auto-generated method stub
+		return atmState;
+	}
+
+	@Override
+	public int getCashInMachine() {
+		// TODO Auto-generated method stub
+		return cashInMachine;
+	}
 	
 	
 	

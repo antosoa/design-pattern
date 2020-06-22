@@ -1,5 +1,8 @@
 package state;
 
+import proxy.ATMProxy;
+import proxy.GetATMData;
+
 public class TestATMMachine {
 
 	public static void main(String[] args) {
@@ -23,8 +26,14 @@ public class TestATMMachine {
 		
 		atmMachine.insertCard();
 		
-		atmMachine.insertPin(1123);
+		atmMachine.insertPin(1234);
 
+		GetATMData realATMMachine = new ATMMachine();
+		
+		GetATMData atmProxy = new ATMProxy();
+		
+		System.out.println("\t Current ATM State" + atmProxy.getATMState());
+		
 	}
 
 }

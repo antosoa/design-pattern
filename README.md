@@ -16,7 +16,7 @@
 ### 3 - Object Adapter
 ### 4 - [Facade](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/facade) When you create an interface that performs many others actions behind the scenes
 ### 5 - Composite  
-### 6 - [Proxy] (https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/proxy) provide a class which will limit access to another class
+### 6 - [Proxy](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/proxy) provide a class which will limit access to another class
 ### 7 - Flyweight  
 ### 8 - Bridge  
 

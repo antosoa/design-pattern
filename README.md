@@ -24,7 +24,7 @@
 
 ###  1- Template Method 
 ###  2 - Strategy 
-###  3 - [State](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/state) 
+###  3 - [State](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/state) : We create objects which represent various states and a context object whose behavior varies as its state object changes
 ###  4 - Command  
 ###  5 - Observer 
 ###  6 - Mediator 

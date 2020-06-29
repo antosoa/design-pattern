@@ -11,12 +11,12 @@
 
 # Structural:
 
-### 1 - [decorator](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator)
+### 1 - [decorator](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator) : Uses composition instead of inheritance to extend the functionality of an object at runtime
 ### 2 - Class Adapter 
 ### 3 - Object Adapter
-### 4 - [Facade](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/facade) When you create an interface that performs many others actions behind the scenes
+### 4 - [Facade](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/facade) : When you create an interface that performs many others actions behind the scenes
 ### 5 - Composite  
-### 6 - [Proxy](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/proxy) provide a class which will limit access to another class
+### 6 - [Proxy](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/proxy) : Provide a class which will limit access to another class
 ### 7 - Flyweight  
 ### 8 - Bridge  
 

@@ -3,7 +3,7 @@
 
 # Creational: 
 
-### 1 - [abstract factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/abstractfactorydesign)
+### 1 - [abstract factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/abstractfactorydesign) : That means Abstract Factory lets a class returns a factory of classes. So, this is the reason that Abstract Factory Pattern is one level higher than the Factory Pattern
 ### 2 - [singleton](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/singleton)
 ### 3 - [factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/factory)
 ### 4 - [Builder](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/builder)

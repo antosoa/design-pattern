@@ -5,7 +5,7 @@
 
 ### 1 - [abstract factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/abstractfactorydesign) : That means Abstract Factory lets a class returns a factory of classes. So, this is the reason that Abstract Factory Pattern is one level higher than the Factory Pattern
 ### 2 - [singleton](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/singleton)
-### 3 - [factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/factory)
+### 3 - [factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/factory) : Subclasses are responsible to create the instance of the class.
 ### 4 - [Builder](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/builder)
 ### 5 - [Prototype](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/prototype)
 

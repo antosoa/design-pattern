@@ -1,5 +1,15 @@
 package composite;
 
+/*
+ * Component – Component is the interface (or abstract class) 
+ * for the composition of the 
+ * objects and methods for accessing/processing 
+ * its child or node components. 
+ * It also implements a default interface to define common 
+ * functionalities/behaviors for all component classes.
+ * 
+ */
+
 public abstract class SongComponent {
 	
 	public void add( SongComponent newSongComponent )

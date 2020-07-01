@@ -3,6 +3,14 @@ package composite;
 import java.util.ArrayList;
 import java.util.Iterator;
 
+/*
+ *Composite – The composite class defines a concrete component class, 
+ *which stores its child components. The composite class implements the component interface. 
+ *It forwards the command/task to the composite 
+ *objects it contains. It may also perform additional operations before and after forwarding the command/task. 
+ * 
+ */
+
 public class SongGroup extends SongComponent{
 
 	

@@ -1,5 +1,13 @@
 package composite;
 
+/*
+ * Leaf – The leaf class defines a concrete component class, 
+ * which does not have any further composition. The leaf 
+ * class implements the component interface. 
+ * It performs the command/task at its end only.
+ * 
+ */
+
 public class Song extends SongComponent{
 	
 	String songName;

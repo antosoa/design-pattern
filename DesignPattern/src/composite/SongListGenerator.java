@@ -1,5 +1,13 @@
 package composite;
 
+/*
+ * Client – 
+ * The client class uses the component interface 
+ * to interact/manipulate the objects in the composition 
+ * (Leaf and Composite).
+ * 
+ */
+
 public class SongListGenerator {
 
 	public static void main(String[] args) {

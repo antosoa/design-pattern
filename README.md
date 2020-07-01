@@ -1,7 +1,7 @@
 ## UML Notation : [PDF](https://github.com/antosoa/design-pattern/blob/master/DesignPattern/Untitled%20Diagram.pdf) 
 
 
-# Creational: 
+## Creational: 
 
 ### 1 - [abstract factory](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/abstractfactorydesign) : _That means Abstract Factory lets a class returns a factory of classes. So, this is the reason that Abstract Factory Pattern is one level higher than the Factory Pattern_
 ### 2 - [singleton](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/singleton) : _Define a class that has only one instance and provides a global point of access to it_
@@ -9,7 +9,7 @@
 ### 4 - [Builder](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/builder) : _It is mostly used when object can't be created in single step like in the de-serialization of a complex object_
 ### 5 - [Prototype](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/prototype)
 
-# Structural:
+## Structural:
 
 ### 1 - [decorator](https://github.com/antosoa/design-pattern/tree/master/DesignPattern/src/decorator) : _Uses composition instead of inheritance to extend the functionality of an object at runtime_
 ### 2 - Class Adapter 
@@ -20,7 +20,7 @@
 ### 7 - Flyweight  
 ### 8 - Bridge  
 
-# Behavioral: 
+## Behavioral: 
 
 ###  1- Template Method 
 ###  2 - Strategy 
